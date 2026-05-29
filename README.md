@@ -15,7 +15,7 @@ Dashboard interactivo desarrollado en Microsoft Excel para analizar salarios en 
 
 ## Vista Previa del Dashboard
 
-![Vista Previa del Dashboard](dashboard-preview.png)
+![Vista Previa del Dashboard](dashboard_demo_hd.gif)
 
 ## Características
 
@@ -28,8 +28,8 @@ Dashboard interactivo desarrollado en Microsoft Excel para analizar salarios en 
 
 ## Archivos del Proyecto
 
-- Dashboard_Salarial.xlsx
-- dashboard-preview.png
+- 📊 [Dashboard Excel](Dashboard%20de%20Análisis%20de%20Datos%20Salariales%20en%20Excel.xlsx)
+- 🎥 dashboard_demo_hd.gif
 
 ## Autor
 
