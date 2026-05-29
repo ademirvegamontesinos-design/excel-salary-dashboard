@@ -32,11 +32,11 @@ Analizar salarios en puestos relacionados con Ciencia de Datos mediante un dashb
   
 ## Competencias Demostradas
 
-- Análisis de Datos
-- Microsoft Excel
-- Visualización de Datos
-- Desarrollo de Dashboards
-- Business Intelligence
+- 📊 Análisis de Datos
+- 📈 Microsoft Excel
+- 📋 Visualización de Datos
+- 🎛️ Desarrollo de Dashboards
+- 💡 Business Intelligence
 
 ## Archivos del Proyecto
 
