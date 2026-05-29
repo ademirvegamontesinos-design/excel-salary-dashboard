@@ -1,4 +1,4 @@
-# Excel Salary Dashboard
+# Data Science Salary Dashboard
 
 ## Overview
 Interactive dashboard developed in Microsoft Excel to analyze Data Science salaries by country, job title, and employment type.
